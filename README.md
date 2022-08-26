@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-<h4>Tecnologias y Herramientas</h4> 
+<h3>Tecnologias y Herramientas 👨🏻‍💻</h3> 
  
 <a href="https://docs.oracle.com/en/java/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="java" width="45" height="45"/> 
@@ -50,7 +50,7 @@
 
 
 <div align="center">
-<h4>Donde encontrarme</h4>
+<h3>Donde encontrarme  🕵🏻</h3>
 <p>
 <a href="https://github.com/VicenteCantero" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://es.linkedin.com/in/vicente-cantero-luna-68340484" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -60,6 +60,8 @@
 
 
 
+<img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=VicenteCanteroLuna&theme=material-palenight">
+<img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&text_color=E9E5D6&username=VicenteCanteroLuna&show_icons=true&theme=material-palenight&hide=Dockerfile">
 
 
 
