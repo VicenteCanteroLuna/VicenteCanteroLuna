@@ -1,19 +1,15 @@
-
+<h1 align="center"> 👋  WELCOME TO MY WORLD  👋</h1>
 <picture> <img align="right" src="https://acegif.com/wp-content/uploads/gifs/globe-9.gif" width = 200px></picture>
 <picture> <img align="left" src="https://acegif.com/wp-content/uploads/gifs/globe-9.gif" width = 200px></picture>
 
-### <h1 align="center"> 👋  Bienvenidos a mi mundo  👋</h1>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center" style="color:#E9E5D6">
+<br/>
+<h1 style="color:#E9E5D6" align="center">Vicente Cantero Luna</h1>
+<h2 style="color:#e9e5d6" align="center">FullStack Developer Junior</h2>
+</div>
 
 	
-## <h3> Sobre mí  💬 </h3> 
+<br/>
 
 <div align="center">
 <h4>Tecnologias y Herramientas</h4> 
