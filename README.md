@@ -4,12 +4,12 @@
 
 <div align="center" style="color:#E9E5D6">
 <br/>
-<h1 style="color:#E9E5D6" align="center">Vicente Cantero Luna</h1>
-<h2 style="color:#e9e5d6" align="center">FullStack Developer Junior</h2>
+<h2 font-size=20px style="color:#E9E5D6" align="center">Vicente Cantero Luna</h2>
+<h3 style="color:#e9e5d6" align="center">FullStack Developer Junior</h3>
 </div>
 
 	
-<br/>
+<br/><br/>
 
 <div align="center">
 <h3>Tecnologias y Herramientas 👨🏻‍💻</h3> 
