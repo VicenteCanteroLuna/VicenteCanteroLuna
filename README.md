@@ -54,6 +54,9 @@
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> 
 </a>
+<a href="https://developer.android.com/docs" target="_blank"> 
+<img src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo-1024x1024.png" width="45" height="45"/> 
+</a> 
 <a href="https://docs.docker.com/" target="_blank"> 
 <img src="https://mma.prnewswire.com/media/776689/New_Docker_logo_Logo.jpg?p=publish" width="45" height="45"/> 
 </a> 
@@ -70,11 +73,11 @@
 </p>
 </div>
 
-
-
+<br>
+<div>
 <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=VicenteCanteroLuna&theme=material-palenight">
 <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&text_color=E9E5D6&username=VicenteCanteroLuna&show_icons=true&theme=material-palenight&hide=Dockerfile">
-
+</div>
 
 
 
