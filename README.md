@@ -24,27 +24,36 @@
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/> 
 </a>  
-  
-<a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=bing&utm_campaign=mdb_bs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongodbatlas&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=415204556&adgroup=1223756911397087&msclkid=b5623c4db2f519a1146f5f45028db842" target="_blank"> 
-<img src="https://www.kindpng.com/picc/m/385-3850482_mongodb-logo-png-transparent-png.png"  width="45" height="60"/> 
-</a> 
-<a href="https://www.devart.com/dbforge/sql/documenter/?utm_source=bing&utm_medium=cpc&utm_campaign=%7BSQL%20Server%7D%20%3A%3A%20Search&utm_content=&utm_term=%2Bsql%20%2Bserver%20%2Bdocumentation&msclkid=6542515f50511d08da713257e16cf15c" target="_blank"> 
-<img src="https://www.kindpng.com/picc/m/21-215460_microsoft-sql-server-logo-png-microsoft-sql-server.png" width="45" height="60"/> 
-</a>   
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
-</a>     
+</a>
+<a href="https://www.devart.com/dbforge/sql/documenter/?utm_source=bing&utm_medium=cpc&utm_campaign=%7BSQL%20Server%7D%20%3A%3A%20Search&utm_content=&utm_term=%2Bsql%20%2Bserver%20%2Bdocumentation&msclkid=6542515f50511d08da713257e16cf15c" target="_blank"> 
+<img src="https://www.kindpng.com/picc/m/21-215460_microsoft-sql-server-logo-png-microsoft-sql-server.png" width="45" height="45"/> 
+</a>
+<a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=bing&utm_campaign=mdb_bs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongodbatlas&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=415204556&adgroup=1223756911397087&msclkid=b5623c4db2f519a1146f5f45028db842" target="_blank"> 
+<img src="https://www.kindpng.com/picc/m/385-3850482_mongodb-logo-png-transparent-png.png"  width="45" height="45"/> 
+</a> 
+<a href="https://firebase.google.com/docs?hl=es-419" target="_blank"> 
+<img src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" width="45" height="45"/> 
+</a> 
 
 <a href="https://postman.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+</a> 
+<a href="https://spring.io/https://logonoid.com/images/intellij-idea-logo.png" target="_blank"> 
+<img src="https://www.clipartkey.com/mpngs/m/119-1199352_november-12th-transparent-spring-boot-icon.png" width="45" height="45"/> 
+</a>
+<a href="https://www.jetbrains.com/help/idea/working-with-code-documentation.html" target="_blank"> 
+<img src="https://logonoid.com/images/intellij-idea-logo.png" width="45" height="45"/> 
 </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
 <a href="https://angular.io/docs" target="_blank"> 
 <img src="https://www.crosssoft.de/wp-content/uploads/2019/03/Angular_full_color_logo.svg-e1551712341736.png" width="45" height="45"/> 
-</a> 
+</a>
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> 
+
 </a>
 </div>
 <br/>
