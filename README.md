@@ -53,8 +53,10 @@
 </a>
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> 
-
 </a>
+<a href="https://docs.docker.com/" target="_blank"> 
+<img src="https://mma.prnewswire.com/media/776689/New_Docker_logo_Logo.jpg?p=publish" width="45" height="45"/> 
+</a> 
 </div>
 <br/>
 
